@@ -1,2 +1,2 @@
-# dotnet-core-web-api-boilerplate
-C# Web API boilerplate By Hamza
+# dotnet-core-web-api
+C# Web API By Hamza
